@@ -1,6 +1,6 @@
 ### 👋 I'm Y, welcome to my github profile 
 
-- 🔭 I've been working in React/Typescript for over 1 year. 
+- 🔭 I've been working in React/Typescript for over 2 years. 
 - 🌱 I’m currently leveling up in React.
 - 👯 You can read my personal projects here.
 - 💬 You can follow me on Instagram @yarski52
@@ -11,8 +11,8 @@ My skills <br>
 [![CSS3][CSS3.com]][CSS3-url]
 [![Typescript][Typescriptlang.org]][Typescript-url]
 <br>
-[![Angular][Angular.io]][Angular-url]
 [![React][React.js]][React-url]
+[![Angular][Angular.io]][Angular-url]
 <!--[![Next][Next.js]][Next-url]-->
 
 [![Python][Python.org]][Python-url]
